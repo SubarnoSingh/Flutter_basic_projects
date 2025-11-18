@@ -54,11 +54,13 @@ test/
 
 Clone the repository:
 
-```bash```
+```bash
 git clone https://github.com/SubarnoSingh/Flutter_basic_projects.git
 cd weather_app
 flutter pub get
 flutter run
+
+```
 Add your API key inside:
 
 lib/secrets.dart
